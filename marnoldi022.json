@@ -1,0 +1,9 @@
+{
+  "particle_name": "M.arnoldi",
+  "symbolic": "\\(\\alpha _{M}\\)",
+  "symbolic2": "\\(\\nu _{MA}\\)",
+  "statistics": "Fermion",
+  "mass": "0.01eV(10^{-2}eV)",
+  "spin": "1/2",
+  "alike_particle_interaction": "neutrino"
+}
